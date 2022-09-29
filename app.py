@@ -11,11 +11,3 @@ def welcome_home(variable):
         return "welcome home"
     elif variable == "back":
         return "welcome back"
-
-# @app.route('/welcome/home')
-# def welcome_home():
-#     return "welcome home"
-
-# @app.route('/welcome/back')
-# def welcome_back():
-#     return "welcome back"
